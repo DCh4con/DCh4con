@@ -17,13 +17,21 @@
 - 🚀 Siempre aprendiendo, siempre iterando.
 
 <br>
-<a href="https://www.linkedin.com/in/dariochaconp" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="50" /> 
+
+- Contacto: <a href="https://www.linkedin.com/in/dariochaconp" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="50" /> 
 
 ## <picture><img src="./assets/gifs/proyects.gif" width="40"></picture> Proyectos
-<!--## 🛡️ Ciberseguridad
-### 🔧 Herramientas
-### 💣 Exploits
-### 🕵️ CTFs -->
+## 🛡️ Ciberseguridad
+   ### 🔧 Herramientas
+   🚧 En construcción - Próximamente scripts de automatización
+   
+   ### 💣 Exploits
+   🚧 En construcción - Desarrollando POCs educativos
+   
+   ### 🕵️ CTFs
+   🚧 En construcción - Documentando writeups
+
+<br>
 
 ## 💻 Programación
 ### 🖥️ Web
