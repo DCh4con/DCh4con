@@ -30,7 +30,18 @@
    
    ### 🕵️ CTFs
    🚧 En construcción - Documentando writeups
-
+   
+   ### 📝 Apuntes
+   <div align="">
+  <table border="0" style="border:none;">
+    <tr>
+      <td width="33%" style="border:none;">
+        <!-- TARJETA 1 -->
+        <a href="https://github.com/DCh4con/Apuntes_eJPTv2"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DCh4con&repo=Apuntes_eJPTv2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+      </td>
+    </tr>
+  </table>
+</div>
 <br>
 
 ## 💻 Programación
